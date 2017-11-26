@@ -1,0 +1,40 @@
+TENDENCIAS CSS
+
+ Movilidad web
+
+
+Responsive Web Design (Diseño web adaptativo)
+Consiste en una serie de técnicas y metodologías que buscan que un contenido web se vea correctamente en cualquier dispositivo,
+ a través del uso de media-queries (módulo CSS3). Una media-query permite controlar la presentación de un mismo contenido HTML a partir de
+ condiciones basadas en el ancho, el alto y el color de los dispositivos de salida.
+
+Mobile first 
+Es una metodología que hace parte del diseño web adaptativo y que se usa para desarrollar los sitios web de manera que se 
+rendericen en condiciones óptimas, primero en dispositivos móviles y luego, según el tamaño, en pantallas de computador.
+
+Frameworks y librerías CSS
+Los frameworks son entornos de desarrollo o de trabajo que cuentan con múltiples opciones de herramientas que podemos usar
+ según las necesidades de cada proyecto. Utilizar un buen framework CSS mejorará el resultado final de nuestros desarrollos 
+y al mismo tiempo nos permitirá ahorrar cientos de líneas de código. En la actualidad, la mayoría de los frameworks CSS tienen
+ incorporados sistemas de grid, así como decenas de componentes preconfigurados, tipografías web, entre muchas otras opciones. 
+Algunos de los más populares son Bootstrap, Less Framework, Skeleton y Foundation.
+
+ Multimedia
+
+3D
+La especificación CSS3, que reúne las transformaciones CSS 2D, CSS 3D y SVG, permite construir reglas para poder aplicar a 
+los elementos transformaciones en espacios de dos y tres dimensiones.
+
+Animate
+Este módulo de CSS permite animar los valores de las propiedades sobre una línea de tiempo, usando keyframes. 
+Con él, puede especificarse la duración, el número de repeticiones y el comportamiento de los keyframes.
+ Existen librerías especializadas que nos permiten crear animaciones complejas sin necesidad de emplear lenguajes de script.
+
+ Accesibilidad
+
+Accesibilidad web se refiere a las herramientas y metodologías que tienden a facilitar el acceso de cualquier persona a la web, 
+independientemente del tipo de hardware, software, infraestructura de red, idioma, cultura, localización geográfica y capacidades de los usuarios.
+
+El W3C cuenta con un proyecto llamado Iniciativa de Accesibilidad Web que desarrolla y propone actividades que motivan el acceso a la web
+ de personas con discapacidades. El CSS tiene un conjunto de propiedades que llama “aurales o auditivas” y que utiliza una combinación de 
+síntesis de voz y efectos de sonido para hacer que el usuario escuche en vez de tener que leer la información.

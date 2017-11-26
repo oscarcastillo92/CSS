@@ -1,0 +1,21 @@
+ Validador W3C
+
+Un recurso interesante para los desarrolladores web son los validadores que son herramientas 
+que permiten verificar que el código HTML o CSS sea correcto, es decir, que cumpla con los lineamientos
+ y recomendaciones de la Word Wide Web Consortium (W3C). Este organismo, formado por varias organizaciones,
+ tiene como misión establecer estándares para la web, publicar directrices para crear webs usables y accesibles.
+ Una de las más importantes ventajas de seguir estos estándares es que nos garantiza la interoperabilidad
+ entre navegadores.
+
+La W3C provee una herramienta para realizar las validaciones de HTML y CSS  http://validator.w3.org/
+
+
+Validate by URI: Es posible validar el HTML y CSS de una URI que ya exista utilizando la opción
+Validate by file Upload: Si aún no se encuentra el recurso que quieres validar en internet, es posible 
+cargarlo y aplicarle la validación haciendo uso de la opción
+Validate by Direct input: En esta opción es posible validar una porción de código.
+
+Cuando validas tu código aumentas su interoperabilidad, te aseguras que la visualización sea la correcta 
+y deseada en la mayoría de los navegadores y facilitas el mantenimiento debido a que cumpliendo los estándares 
+tú código es mucho más legible. Cada día los navegadores actuales están convergiendo y comprendiendo 
+la importancia de los estándares establecidos por la W3C.
